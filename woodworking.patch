@@ -1,0 +1,15 @@
+--- a/ProfessionMenu/ProfessionMenu.lua
++++ b/ProfessionMenu/ProfessionMenu.lua
+@@ -198,6 +198,12 @@
+         3273, -- Apprentice 75
+     }, --FIRSTAID
+     {13977860}, --WOODCUTTING
++    {
++        1005011, -- Artisan
++        1005010, -- Expert
++        1005009, -- Journeyman
++        1005008, -- Apprentice
++    }, --WOODWORKING
+ }
+ 
+ local profSubList = {
